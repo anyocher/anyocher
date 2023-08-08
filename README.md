@@ -1,6 +1,6 @@
 ### Heyy!! I'm Ana 
 
- 💖 Estudante de TI 💖
+ Estudante de TI 💋	
 - ##
   
   
