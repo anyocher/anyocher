@@ -1,4 +1,4 @@
-###<center> Heyy!! I'm Ana </center>
+          Heyy!! I'm Ana
 
  Estudante de TI 💋	
 - ##
