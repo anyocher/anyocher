@@ -18,8 +18,7 @@
 ![DARK BOL](https://i.gifer.com/82em.gif)
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Handjet&weight=700&size=50&pause=1000&color=8E3CB8&center=true&vCenter=true&width=435&lines=Hello+There!!+%3AD;My+name+is+Ana+Ochner!!;Welcome!!+%3A)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Handjet&weight=700&size=50&pause=1000&color=8E3CB8&center=true&vCenter=true&width=435&lines=Heyy!!+%3AD;I'm+Ana+Ochner!!;Welcome!!+%3A)" alt="Typing SVG" /></a>
 </div>
-##
 
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
