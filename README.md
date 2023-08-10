@@ -1,7 +1,7 @@
 ##          Heyy!! I'm Ana
 
  Estudante de TI 💋	
-- ##
+ ##
   
   
   <img src="https://lh5.googleusercontent.com/-uREiNwXRv0g/UGVmpw4wkOI/AAAAAAAAFhA/opLIzoWqv7U/s288/HTML5_SF.png" width="40px" height="40px">
