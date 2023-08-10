@@ -1,4 +1,4 @@
-##          Heyy!! I'm Ana
+##          Heyy!! I'm Ana Ochner <3
 
  Estudante de TI 💋	
 - ##
