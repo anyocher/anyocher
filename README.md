@@ -1,4 +1,4 @@
-##          𝕳𝖊𝖞𝖞!! 𝕴'𝖒 𝕬𝖓𝖆 <3
+##         Heyy!! I'm Ana <3
 
 IT student 
 
