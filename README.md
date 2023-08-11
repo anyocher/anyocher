@@ -1,6 +1,6 @@
 ##          Heyy!! I'm Ana Ochner <3
 
- Estudante de TI 💋	
+IT student 💋	
 
   
   
