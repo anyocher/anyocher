@@ -30,6 +30,7 @@ IT student
   <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 
+ <img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/mirellaxsj/mirellaxsj/output/github-contribution-grid-snake-dark.svg">
  
 
 <a href="https://www.instagram.com/anyochner/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
