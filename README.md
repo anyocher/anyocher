@@ -26,7 +26,7 @@
 </div>
 
 
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=IgorHenriqueG&bg_color=1717171&color=E0115F&line=630c92&point=FFD700&area=true&hide_border=true">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Any Ochner&bg_color=1717171&color=E0115F&line=630c92&point=FFD700&area=true&hide_border=true">
 
 
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
