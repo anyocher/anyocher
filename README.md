@@ -33,4 +33,4 @@
 <img align="center" alt="python" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png">
 
 
- 
+ <img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/HalinaYV/HalinaYV/output/github-contribution-grid-snake-dark.svg">
