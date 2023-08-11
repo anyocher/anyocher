@@ -24,7 +24,7 @@ IT student
  
 
 
- <img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/HalinaYV/HalinaYV/output/github-contribution-grid-snake-dark.svg">
+ <img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/anyocher/anyocher/output/github-contribution-grid-snake-dark.svg">
 
 <a href="https://twitter.com/ochneranyy">
   <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
