@@ -23,6 +23,13 @@ IT student
 
  
 
+
+ <img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/HalinaYV/HalinaYV/output/github-contribution-grid-snake-dark.svg">
+
+<a href="https://twitter.com/ochneranyy">
+  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 <img src="https://www.techbaz.org/Course/img/c-logo.png" width="40px" height="40px">
 <img width="40" height="40" vspace="20" src="https://cdn.worldvectorlogo.com/logos/css-3.svg">
@@ -30,12 +37,6 @@ IT student
 <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" height="40px" width="40px">
 <a name="README">[<img src="https://martinchavez.github.io/Assets/Logos/javascript.svg" width="40x" height="40px" />](https://github.com/MartinChavez/Learn-Javascript)</a>
 <img align="center" alt="python" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png">
-
- <img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/HalinaYV/HalinaYV/output/github-contribution-grid-snake-dark.svg">
-
-<a href="https://twitter.com/ochneranyy">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
 
 
 <a href="https://www.instagram.com/anyochner/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
