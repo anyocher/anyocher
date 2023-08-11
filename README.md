@@ -6,7 +6,7 @@
   
  
 
-
+<a href="https://www.instagram.com/anyochner/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
  
 
@@ -21,7 +21,7 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=anyocher&bg_color=1717171&color=E0115F&line=630c92&point=FFD700&area=true&hide_border=true">
 
- <a href="https://www.instagram.com/anyochner/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 <img src="https://www.techbaz.org/Course/img/c-logo.png" width="40px" height="40px">
