@@ -22,7 +22,7 @@ IT student
 </div>
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anyocher&bg_color=1717171&color=E0115F&line=630c92&point=FFD700&area=true&hide_border=true">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anyocher&bg_color=1717171&color=9299e7&line=630c92&point=FFD700&area=true&hide_border=true">
 
 
 
