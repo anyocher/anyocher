@@ -14,6 +14,9 @@ IT student
 
 
 
+
+
+
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Handjet&weight=700&size=50&pause=1000&color=ff007f&center=true&vCenter=true&width=435&lines=Heyy+everyone!!;" alt="Typing SVG" /></a>
 </div>
@@ -21,7 +24,15 @@ IT student
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=anyocher&bg_color=1717171&color=E0115F&line=630c92&point=FFD700&area=true&hide_border=true">
 
- 
+
+
+
+
+  <h1 align="center">
+    
+  ![anyocher's GitHub stats](https://usagif.com/wp-content/uploads/gifs/dragon-12.gif)
+  </h1>
+
  
 
 <a href="https://twitter.com/ochneranyy">
