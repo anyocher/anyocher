@@ -28,10 +28,10 @@ IT student
 
 
 
-  <h1 align="center">
+  <h6 align="center">
     
   ![anyocher's GitHub stats](https://usagif.com/wp-content/uploads/gifs/dragon-12.gif)
-  </h1>
+  </h6>
 
  
 
