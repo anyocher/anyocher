@@ -27,9 +27,8 @@ IT student
 
 
 
-##
 
- <img height="200 align="left" src="https://usagif.com/wp-content/uploads/gifs/dragon-12.gif">
+
 
  
 
@@ -41,3 +40,8 @@ IT student
  
 
 <a href="https://www.instagram.com/anyochner/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+##
+
+ <img height="200 align="left" src="https://usagif.com/wp-content/uploads/gifs/dragon-12.gif">
+
