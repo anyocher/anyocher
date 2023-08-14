@@ -48,5 +48,5 @@ IT student
  
 ##
 
- <img height="200 align="left" src="https://usagif.com/wp-content/uploads/gifs/dragon-12.gif">
+ 
 
