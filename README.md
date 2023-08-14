@@ -28,10 +28,7 @@ IT student
 
 
 
-  <h6 align="center">
-    
-  ![anyocher's GitHub stats](https://usagif.com/wp-content/uploads/gifs/dragon-12.gif)
-  </h6>
+ <img height="200 align="left" src="https://usagif.com/wp-content/uploads/gifs/dragon-12.gif">
 
  
 
