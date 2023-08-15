@@ -26,12 +26,14 @@ IT student
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=anyocher&bg_color=1717171&color=9299e7&line=630c92&point=FFD700&area=true&hide_border=true">
 
 
-
+<a href="https://www.instagram.com/anyochner/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 
 
  
-
+<a href="https://twitter.com/ochneranyy">
+  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
 
 
 
@@ -45,9 +47,6 @@ IT student
  
 ##
 
-<a href="https://www.instagram.com/anyochner/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
 
  
-<a href="https://twitter.com/ochneranyy">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
