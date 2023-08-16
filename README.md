@@ -43,7 +43,7 @@ IT student
 
 
 
-<img height="190" align="right" src="https://usagif.com/wp-content/uploads/gifs/dragon-12.gif">
+<img height="190" align="right" src="https://i.gifer.com/8X44.gif">
  
 ##
 
