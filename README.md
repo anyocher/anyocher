@@ -43,7 +43,7 @@ IT student
 
 
 
- <img height="190" align="right" src="https://image.pngaaa.com/114/2978114-middle.png">
+ <img height="190" align="right" src="https://img1.picmix.com/output/stamp/normal/7/2/8/9/2349827_cffbe.png">
  
 ##
 
