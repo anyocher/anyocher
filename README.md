@@ -43,7 +43,7 @@ IT student
 
 
 
-<img height="190" align="right" src="https://i.gifer.com/8X44.gif">
+<img height="190" align="right" src="https://gifer.com/pt/8X44">
  
 ##
 
