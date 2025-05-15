@@ -26,12 +26,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=anyocher&bg_color=white&color=9694c8&line=630c92&point=bcbafa&area=true&hide_border=true">
 
 
-
-
-
- 
-<a href="https://twitter.com/ochneranyy">
-  
 </a>
 
 
