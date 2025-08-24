@@ -13,7 +13,7 @@
 
 
 
- [![Ishan's GitHub stats](https://beautiful-github-homepage.vercel.app/api?username=anyocher&show_icons=true)](https://github.com/ishandutta2007/beautiful-github-homepage)
+ [![Ishan's GitHub stats](https://beautiful-github-homepage.vercel.app/api?username=anyocher&show_icons=true)](https://github.com/anyocher/beautiful-github-homepage)
 
 
 
