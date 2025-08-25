@@ -8,6 +8,12 @@
 
 #
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=anyocher&show_icons=true&theme=github_dark&hide_border=true&title_color=9d3be3&icon_color=a86ad4&text_color=ffffff" />
+</p>
+
+#
+
  
 <img height="190" align="right" src="https://img1.picmix.com/output/stamp/normal/7/2/8/9/2349827_cffbe.png">
 
