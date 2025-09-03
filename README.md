@@ -14,9 +14,6 @@
 
 #
 
- 
-<img height="190" align="right" src="https://img1.picmix.com/output/stamp/normal/7/2/8/9/2349827_cffbe.png">
-
 
 
 
