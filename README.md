@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Security-Ethical%20Hacker-4f1d82?style=for-the-badge&logo=shield&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-CyberSecurity-4f1d82?style=for-the-badge&logo=lock&logoColor=black" />
+  <img src="https://img.shields.io/badge/Focus-CyberSecurity-4f1d82?style=for-the-badge&logo=lock&logoColor=black"     />
 </p>
 
 #
