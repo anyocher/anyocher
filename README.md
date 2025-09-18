@@ -1,7 +1,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-CyberSecurity-ffffff?style=for-the-badge&logo=lock&logoColor=black"     />
 </p>
+
 ---
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=anyocher&bg_color=white&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true">
 <!--
 <p align="center">
