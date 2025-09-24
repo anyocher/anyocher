@@ -1,14 +1,14 @@
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-CyberSecurity-ffffff?style=for-the-badge&logo=lock&logoColor=black"     />
+  <img src="https://img.shields.io/badge/Focus-CyberSecurity-f2dbc2?style=for-the-badge&logo=lock&logoColor=black"     />
 </p>
 
 ---
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anyocher&bg_color=white&color=f5c187&line=ffdcb5&point=f5c187&area=true&hide_border=true">
+
+
 <!--
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anyocher&bg_color=white&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true">
-
-
-
 
 v
 <p align="center">
