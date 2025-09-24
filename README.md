@@ -5,7 +5,7 @@
 
 ---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anyocher&bg_color=white&color=f5c187&line=ffdcb5&point=f5c187&area=true&hide_border=true">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anyocher&bg_color=white&color=f5c187&line=f2dbc2&point=f5c187&area=true&hide_border=true">
 
 
 <!--
