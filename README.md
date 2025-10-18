@@ -8,7 +8,6 @@
 
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anyocher&bg_color=white&color=fff&line=fff&point=00000&area=true&hide_border=true">
 
 
 <!--
@@ -17,6 +16,7 @@
   <img src="https://img.shields.io/badge/Focus-CyberSecurity-fff?style=for-the-badge&logo=lock&logoColor=black"     />
 </p>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anyocher&bg_color=white&color=fff&line=fff&point=00000&area=true&hide_border=true">
 
 
 ---
