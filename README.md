@@ -1,11 +1,11 @@
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-CyberSecurity-f2dbc2?style=for-the-badge&logo=lock&logoColor=black"     />
+  <img src="https://img.shields.io/badge/Focus-CyberSecurity-b55cdb?style=for-the-badge&logo=lock&logoColor=black"     />
 </p>
 
 ---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anyocher&bg_color=white&color=ffe4c7&line=fff&point=f5c187&area=true&hide_border=true">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anyocher&bg_color=white&color=b0abb3&line=fff&point=b55cdb&area=true&hide_border=true">
 
 ---
 
@@ -19,11 +19,7 @@
 ###
 
 
-<div align="center">
-  <a href="https://open.spotify.com/user/q2xysqgo1ohb4r4b59wpo13ab">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=q2xysqgo1ohb4r4b59wpo13ab&count=6&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
+
 
 <!--
 
