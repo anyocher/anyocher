@@ -5,12 +5,6 @@
 </picture>
 
 
-<div align="center">
-  <a href="https://open.spotify.com/user/q2xysqgo1ohb4r4b59wpo13ab">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=q2xysqgo1ohb4r4b59wpo13ab&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
 
 <!--
 
@@ -20,6 +14,9 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=anyocher&bg_color=white&color=fff&line=fff&point=00000&area=true&hide_border=true">
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anyocher&radius=50&theme=react&area=true&order=5" height="280" alt="activity-graph graph"  />
+</div>
 
 ---
 
